@@ -1,0 +1,16 @@
+Build.PL
+Changes
+lib/Script/Sub/Import.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/01-core.t
+t/01-core/t1.pl
+t/02-error.t
+t/02-error/t2.pl
+t/03-package.t
+t/03-package/t1.pl
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t

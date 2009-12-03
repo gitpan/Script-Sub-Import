@@ -1,0 +1,19 @@
+---
+name: Script-Sub-Import
+version: 0.0101
+author:
+  - 'Yuki Kimoto <kimoto.yuki@gmail.com>'
+abstract: Import only subroutines from perl script
+license: perl
+resources:
+  license: ~
+build_requires:
+  Test::More: 0
+provides:
+  Script::Sub::Import:
+    file: lib/Script/Sub/Import.pm
+    version: 0.0101
+generated_by: Module::Build version 0.31012
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
